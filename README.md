@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShrushtiAsutkar
-- 👀 I’m like to explore things 
+- 👀 I like to explore things 
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on with a team which can enhance my skills
 - 📫 How to reach me ...
